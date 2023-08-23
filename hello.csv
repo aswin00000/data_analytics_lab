@@ -1,0 +1,5 @@
+numeric_attr1,numeric_attr2,nominal_attr1,nominal_attr2
+1,5,cat,red
+2,3,dog,blue
+4,8,cat,green
+3,9,dog,yellow
